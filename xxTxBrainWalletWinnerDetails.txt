@@ -1,0 +1,18 @@
+
+Bitcoin Address Compressed : 1PukQEjjK98Qd2NfVibD5sSnP2fALGFHDS  TX = 2
+Passphrase       : 14YK4mzJGo5NKkNnmVJeuEAQftLt795Gec
+Private Key      : 1b9598327a177f5775c19cc992053cdd6505599b7a6f01dfe5259a45fa6a4a9a
+Balance: 0 BTC
+-------------- Programmer Mmdrza.Com ----------------------
+
+Bitcoin Address Compressed : 1PukQEjjK98Qd2NfVibD5sSnP2fALGFHDS  TX = 2
+Passphrase       : 14YK4mzJGo5NKkNnmVJeuEAQftLt795Gec
+Private Key      : 1b9598327a177f5775c19cc992053cdd6505599b7a6f01dfe5259a45fa6a4a9a
+Balance: 0 BTC
+-------------- Programmer Mmdrza.Com ----------------------
+
+Bitcoin Address Compressed : 1MThTn1XmUYcUtBs7GPdUBB7cmZWr2BPft  TX = 2
+Passphrase       : 17A16QmavnUfCW11DAApiJxp7ARnxN5pGX
+Private Key      : ab6f3e0f87efdd79d99be7caa9f91c2bcca32be13e6b5f9affd4d84894279e2c
+Balance: 0 BTC
+-------------- Programmer Mmdrza.Com ----------------------
